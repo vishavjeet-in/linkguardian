@@ -3,7 +3,7 @@
 A fast, reliable, and lightweight broken link checker for WordPress. Scan your entire website for broken or redirected links and fix them instantly. Improve SEO, user experience, and site credibility with **LinkGuardian**.
 
 <p align="center">
-  <img src="assets/banner-1544*500.png" alt="LinkGuardian Banner">
+  <img src="assets/banner-1544x500.png" alt="LinkGuardian Banner">
 </p>
 
 ---
